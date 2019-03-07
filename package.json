@@ -1,14 +1,14 @@
 {
   "name": "repeat-action-filter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "type": "dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "files": [
     "dist",
     "package.json",
